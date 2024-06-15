@@ -2,10 +2,10 @@
 predict ride-request for a particular hour using machine learning. One can refer to the below explanation for the column names in the dataset and their values as well.
 
 ### season
-1}spring __
-2}summer __
-3}fall __
-4}winter __
+1}spring  
+2}summer  
+3}fall  
+4}winter  
 
 ### weather
 Clear, Few clouds, Partly cloudy, Partly cloudy
